@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TrieuDuyTRAN a PhD student
+- 👋 Hi, I’m @TrieuDuyTRAN a PhD in granular materials
 - 👀 I’m interested in Data Science, Mechanics of Granular Material, Energy
 - 🌱 I’m currently learning python, C++ to analyse my data
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DEM and Inverse design of nano photonics
 - 📫 How to reach me: tranduypfiev@gmail.com
 
 <!---
